@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Durgesh Satyam
+* Team DThreeLab
 
 
 

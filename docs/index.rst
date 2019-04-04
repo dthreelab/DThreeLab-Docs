@@ -6,9 +6,11 @@
 DThreeLab Documentation
 ==================================================
 
-Welcome to Dthree labs, a software platform which helps you develop other softwares without a single line of code. 
-What’s the good point is that just dragging and dropping does all your work i.e., minimum time and effort.
-So, let’s get started.
+Introduction
+==================================================
+
+Welcome to **DThree Lab**, a software architectural platform which helps you develop other softwares without a single line of code. 
+
 Firstly, the homepage has four sections:- User Panel, App Developer, App Elements and Editable Mobile View.
 User Panel shows you the options you have while working with a particular component. The components which are present in this user panel are the components which are to be dragged and dropped in order to make your software.
 The next section is App Developer. This section shows you the actual component you are working upon. The component to be added will be picked from user panel, dragged and dropped in sub-type content present of the component currently opened in App developer section.
@@ -30,7 +32,9 @@ As it is the main and root component, deleting it will delete you whole app.
 
 Front end of you app will be managed and created using User Interface component while backend will be handled under Server. Dthree labs make it easier for you to handle user interface and server simultaneously.
 So, let’s get started with User Interface first.
+
 Contents:
+==================
 
 .. toctree::
    :maxdepth: 2
