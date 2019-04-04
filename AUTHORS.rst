@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Durgesh Satyam (Founder http://DThreelab.com)
+
 
 
