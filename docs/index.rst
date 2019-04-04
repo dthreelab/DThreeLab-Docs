@@ -33,6 +33,8 @@ As it is the main and root component, deleting it will delete you whole app.
 Front end of you app will be managed and created using User Interface component while backend will be handled under Server. Dthree labs make it easier for you to handle user interface and server simultaneously.
 So, let’s get started with User Interface first.
 
+.. contents:: Table of Contents
+
 Contents:
 ==================
 
