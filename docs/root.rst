@@ -1,6 +1,6 @@
-========
-UsagU
-========
+================
+Root Documents
+================
 
 To use this template, simply update it::
 
