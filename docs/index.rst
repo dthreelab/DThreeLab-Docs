@@ -46,6 +46,7 @@ Contents:
    root
    installation
    authors
+   readme
 
 
 
