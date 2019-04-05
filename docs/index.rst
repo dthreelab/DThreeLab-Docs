@@ -43,8 +43,9 @@ Contents:
    
    authors
    usage
-   installation
    root
+   installation
+   authors
 
 
 
