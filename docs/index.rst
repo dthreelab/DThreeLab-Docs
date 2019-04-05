@@ -44,6 +44,7 @@ Contents:
    authors
    usage
    installation
+   root
 
 
 
