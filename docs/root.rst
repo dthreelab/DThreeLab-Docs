@@ -1,6 +1,6 @@
-================
-Root Documents
-================
+===================
+Root
+==================
 
 To use this template, simply update it::
 
