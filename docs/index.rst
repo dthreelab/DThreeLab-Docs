@@ -9,7 +9,11 @@ DThreeLab Documentation
 Introduction
 ==================================================
 
-Welcome to **DThree Lab**, a software architectural platform which helps you develop other softwares without a single line of code. 
+**DThree Lab** is a software architectural platform which helps you develop other softwares without a single line of code.
+
+We have 2 products to deliver.
+
+* API for your current website/Mobile Apps/Software
 
 Firstly, the homepage has four sections:- User Panel, App Developer, App Elements and Editable Mobile View.
 User Panel shows you the options you have while working with a particular component. The components which are present in this user panel are the components which are to be dragged and dropped in order to make your software.
